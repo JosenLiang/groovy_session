@@ -2,7 +2,7 @@ package com.thoughtworks.groovy
 
 import java.lang.reflect.Array
 
-def createArray1 = {
+def createArray = {
     def array = new Array[it - 1]
     for (i = 0; i < it; i++) {
         array[0] = i
@@ -10,8 +10,8 @@ def createArray1 = {
     array
 }
 
-println "class name of createArray1: ${createArray1.class.name}"
-println "superclass name of createArray1: ${createArray1.class.superclass.name}"
+println "class name of createArray: ${createArray.class.name}"
+println "superclass name of createArray: ${createArray.class.superclass.name}"
 
 def pickEven = { int n, Closure block ->
     for (i = 0; i <= n; i += 2) {
