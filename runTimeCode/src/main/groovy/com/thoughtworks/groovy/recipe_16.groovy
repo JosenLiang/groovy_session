@@ -5,4 +5,6 @@ println numbers.class.name
 
 println numbers[0]
 println numbers[-1]
-println numbers[1..3]
+println numbers[1..5]
+
+numbers << 10
