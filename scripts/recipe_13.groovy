@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 import java.lang.reflect.Array
 
 def createArray = {

@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 def log(x, base = 10) {
     Math.log(x) / Math.log(base)
 }

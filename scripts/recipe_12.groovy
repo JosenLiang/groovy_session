@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 enum CoffeeSize {
     SHORT, SMALL, MEDIUM, LARGE, MUG
 }

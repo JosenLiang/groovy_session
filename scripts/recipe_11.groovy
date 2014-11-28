@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 String[] greetings = ["Hello", "Hi", "Howdy"]
 for (String greet : greetings) {
     println greet

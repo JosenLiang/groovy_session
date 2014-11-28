@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 def languages = ['C++': 'Stroustrup', Java: 'Gosling', Lisp: 'McCarthy']
 
 println languages.Java

@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 String name = 10
 
 println "My name is $name"

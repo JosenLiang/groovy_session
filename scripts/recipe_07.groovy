@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 import groovy.transform.ToString
 import groovy.transform.TupleConstructor
 

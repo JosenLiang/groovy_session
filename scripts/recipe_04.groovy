@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 @Grab('org.apache.httpcomponents:httpclient:4.2.1')
 import org.apache.http.impl.client.DefaultHttpClient
 import org.apache.http.client.methods.HttpGet

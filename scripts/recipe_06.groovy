@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 class Car {
     final year
     private miles

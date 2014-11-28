@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 def show = { first, second ->
     println "first value is $first; second value is $second"
 }

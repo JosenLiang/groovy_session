@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 def names = ['John Smith', 'Nick Bush', 'Mark Jones', 'Nicholas Adams', 'Merry Smith']
 
 println(names.countBy { it.endsWith 'Smith' })

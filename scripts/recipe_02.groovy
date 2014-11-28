@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 def name = "John Smith"
 
 println "This is ${name}".class.name

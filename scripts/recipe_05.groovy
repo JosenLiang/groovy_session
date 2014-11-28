@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 boolean obj = "Hello World!"
 
 println obj

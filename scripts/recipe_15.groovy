@@ -1,5 +1,3 @@
-package com.thoughtworks.groovy
-
 class App {
     String name
 

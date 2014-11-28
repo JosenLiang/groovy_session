@@ -1,6 +1,3 @@
-package com.thoughtworks.groovy
-
-
 def (cat, mouse) = ['Tom', 'Jerry', 'Spike', 'Tyke']
 
 println "$cat and $mouse"
