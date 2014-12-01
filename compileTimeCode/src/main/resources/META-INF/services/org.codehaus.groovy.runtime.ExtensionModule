@@ -3,6 +3,6 @@ moduleName=url-module
 #moduleVersion is useful to check if the version is already loaded
 moduleVersion=0.0.1
 #extensionClasses is a comma-separated name of the helper classes with instance extension methods
-extensionClasses=com.thoughtworks.groovy.UrlExtension
+extensionClasses=com.thoughtworks.groovy.ExtensionMethods
 #staticExtensionClass is a comma-separated name of the helper classes with static extension methods
 #staticExtensionClasses=com.thoughtworks.groovy...
