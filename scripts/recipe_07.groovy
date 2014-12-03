@@ -7,6 +7,9 @@ class Student {
 }
 
 def stu = new Student(name: "John Smith", age: 19, gender: "Male")
+// Object stu = new Student()
+// stu.name = "John Smith"
+// ...
 println stu
 
 def stu1 = new Student([name: 'Merry Smith', age: 19, gender: 'Male'])
